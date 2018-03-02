@@ -7,5 +7,3 @@ dhood
 Research roboticist
 
 **Motivation:** have something to point people to when they ask if I know how to program, instead of trying to convince them (unconvincingly).
-
-**Fun fact:** I am learning ukulele! There's a club in Mountain View. I am the youngest person by about two generations.
