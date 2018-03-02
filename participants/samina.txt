@@ -8,5 +8,7 @@ Software Engineer,
 
 **Motivation:** Start some reallife fun code with Python
 
+Fun fact : I am an introvert but a tiger when teaching a bunch of strangers some programming language that I love
+
 
 
